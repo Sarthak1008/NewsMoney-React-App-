@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+    {
+    "source": {
+    "id": "cbc-news",
+    "name": "CBC News"
+    },
+    "author": "CBC News",
+    "title": "Pavelski lifts Stars over Golden Knights in OT to avoid sweep | CBC Sports",
+    "description": "Joe Pavelski scored on a power play at 3:18 of overtime and the Dallas Stars avoided a sweep in the Western Conference final with a 3-2 victory over the visiting Vegas Golden Knights on Thursday night.",
+    "url": "http://www.cbc.ca/sports/hockey/nhl/vegas-golden-knights-dallas-stars-game-4-recap-may-25-1.6855380",
+    "urlToImage": "https://i.cbc.ca/1.6855410.1685071346!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1493364976.jpg",
+    "publishedAt": "2023-05-26T03:37:15.0498848Z",
+    "content": "Joe Pavelski scored on a power play at 3:18 of overtime and the Dallas Stars avoided a sweep in the Western Conference final with a 3-2 victory over the visiting Vegas Golden Knights on Thursday nigh… [+3387 chars]"
+    },
+    {
+    "source": {
+    "id": "lequipe",
+    "name": "L'equipe"
+    },
+    "author": "L'EQUIPE",
+    "title": "Le flash sports du 26 mai",
+    "description": "Retrouvez l'essentiel de l'actualité sportive avec notre flash sports quotidien.",
+    "url": "https://www.lequipe.fr/Tous-sports/Actualites/Le-flash-sports-du-26-mai/1398653",
+    "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/le-flash-sports-l-equipe/1500000001789331/0:0,1997:1331-640-427-75/af1a0.jpg",
+    "publishedAt": "2023-05-25T22:05:00+00:00",
+    "content": "Les tirages au sort de Roland-Garros ont réservé de belles affiches. Les Metropolitans de Victor Wembanyama se sont qualifiés pour les demi-finales de Betclic Elite. Thibaut Pinot a terminé 2e de la … [+139 chars]"
+    },
+    {
+    "source": {
+    "id": "les-echos",
+    "name": "Les Echos"
+    },
+    "author": "Bruno Trévidic",
+    "title": "Le gouvernement veut taxer davantage le transport aérien pour financer la SNCF",
+    "description": "Lors du congrès de la FNAM, le ministre délégué aux transports, Clément Beaune, a annoncé une « contribution » supplémentaire du transport aérien, qui devrait à aller à la rénovation du réseau SNCF.",
+    "url": "https://www.lesechos.fr/industrie-services/tourisme-transport/le-gouvernement-veut-taxer-davantage-le-transport-aerien-pour-financer-la-sncf-1946700",
+    "urlToImage": "https://media.lesechos.com/api/v1/images/view/646f939b00c6347916219dcb/1280x720/090261606908-web-tete.jpg",
+    "publishedAt": "2023-05-25T16:57:57Z",
+    "content": "Le transport aérien français a bon coeur. En plus de financer ses propres investissements et sa transition énergétique, il va devoir aider la SNCF à financer la remise en état de ses infrastructures.… [+483 chars]"
+    },
+    {
+    "source": {
+    "id": "bleacher-report",
+    "name": "Bleacher Report"
+    },
+    "author": "Maurice Moton",
+    "title": "8 NFL Players Primed for Major Bounce Back from Injury in 2023",
+    "description": "We wish injuries didn't happen, but it's part of all sports. Every year, NFL players are robbed of momentum from previous productive years and the joy of…",
+    "url": "https://bleacherreport.com/articles/10077101-8-nfl-players-primed-for-major-bounce-back-from-injury-in-2023",
+    "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1684911314/q9ari7pjbgx0c27cons8.jpg",
+    "publishedAt": "2023-05-25T11:00:00Z",
+    "content": "Lamar JacksonAP Photo/John Raoux\r\nIn 2022, Lamar Jackson missed the last five games of the regular season and the Baltimore Ravens' wild-card playoff matchup with the Cincinnati Bengals because of a … [+1398 chars]"
+    },
+    {
+    "source": {
+    "id": "bleacher-report",
+    "name": "Bleacher Report"
+    },
+    "author": null,
+    "title": "☄️ Knicks Playoff Special ",
+    "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+    "url": "https://bleacherreport.com/videos/431020-knicks-start-playoff-run--hero-ball",
+    "urlToImage": null,
+    "publishedAt": "2023-04-17T21:22:15.1716203Z",
+    "content": "Knicks Start Playoff Run | Hero Ball"
+    },
+    {
+    "source": {
+    "id": "bleacher-report",
+    "name": "Bleacher Report"
+    },
+    "author": null,
+    "title": "&#x27;The Voncast&#x27; with Myles Garrett",
+    "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+    "url": "https://bleacherreport.com/videos/304730-the-voncast-with-myles-garrett",
+    "urlToImage": null,
+    "publishedAt": "2022-12-01T18:52:49.4768049Z",
+    "content": "Myles Garrett and Von Miller talk playing in the NBA, pick their dream NFL defense and more"
+    },
+    {
+    "source": {
+    "id": "nrk",
+    "name": "NRK"
+    },
+    "author": "NRK",
+    "title": "De siste sportsnyhetene fra NRK",
+    "description": "Her får du de siste sportsnyhetene fra NRK.",
+    "url": "https://www.nrk.no/sport/sportsnyheter-1.14660227#1.16422638.1.16422638",
+    "urlToImage": "https://gfx.nrk.no/7kT5zGoE2E-GnUKLojH1PQ0I1Nze4Ypu8lxM-oBjubQw.jpg",
+    "publishedAt": "2019-08-14T09:09:42Z",
+    "content": "25. mai2023kl.19:56Åtte runder i cupens første runde startet 18.00 torsdag kveld. I tre av dem var det lag fra Eliteserien involvert og for Sarpsborg 08 ble det en rask kaldusj borte mot Funnefoss/Vo… [+1505 chars]"
+    }
+    ]
+    }
